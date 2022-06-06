@@ -1,4 +1,4 @@
-### Hi friends 👋
+### 👋 你好朋友 | Hi friend
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/wolfdan666/wolfdan666/master/pic/pusheencode.gif" />
 
@@ -7,18 +7,23 @@
 - 🔭 Currently working in Shenzhen, China.
 - 📫 How to reach me: [shanlinmin@qq.com](mailto:shanlinmin@qq.com)
 - ⚡ Fun fact: Distributed storage
+- 🌐 Blog: [wolfdan.cn](https://www.wolfdan.cn)
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![C + STL]()
-![Linux]()
-![Golang]()
-- 🔧 &#160;![Git]()
-![GitHub]()
-![Markdown]()
+- 💻 &#160; ![Linux](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/Linux.svg?style=flat&logo=Linux&logoColor=FCC624)
 
-[![wolfdan666's github stats](https://github-readme-stats.vercel.app/api?username=wolfdan666)](https://github.com/anuraghazra/github-readme-stats)
+![Golang](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/go.jpg)
+![C + STL](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/C_STL.png)
+- 🔧 &#160;![Git](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/git.svg)
+![GitHub](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/github.svg)
+![Markdown](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/markdown.svg)
 
+
+### 😄 我的数据 | My data
+[![wolfdan666's github stats](https://github-readme-stats.vercel.app/api?username=wolfdan666&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdan666&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wolfdan666/wolfdan666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
