@@ -1,5 +1,6 @@
 ### 👋 你好朋友 | Hi friend
-
+[![Mail Franklin Shan](https://img.shields.io/badge/-wolfdan666666@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wolfdan666666@gmail.com)](mailto:wolfdan666666@gmail.com)
+---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/wolfdan666/wolfdan666/master/pic/pusheencode.gif" />
 
 ### I'm Franklin Shan
@@ -11,10 +12,9 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Linux](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/Linux.svg?style=flat&logo=Linux&logoColor=FCC624)
-
-![Golang](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/go.jpg)
-![C + STL](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/C_STL.png)
+- 💻 &#160; ![Linux](https://img.shields.io/badge/-Linux-blueviolet?style=flat&logo=Linux&logoColor=FCC624)
+![Golang](https://img.shields.io/badge/-golang-green?style=flat&logo=go)
+![C + STL](https://img.shields.io/badge/-C+STL-blue?style=flat&logo=cplusplus)
 - 🔧 &#160;![Git](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/git.svg)
 ![GitHub](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/github.svg)
 ![Markdown](https://raw.githubusercontent.com/wolfdan666/wolfdan666/main/pic/markdown.svg)
