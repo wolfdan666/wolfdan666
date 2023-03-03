@@ -3,7 +3,7 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/wolfdan666/wolfdan666/master/pic/pusheencode.gif" />
 
-### I'm Franklin Shan
+### I'm Franklin
 - Life Hacker. Code Engineer.
 - 🔭 Currently working in Shenzhen, China.
 - 📫 How to reach me: [shanlinmin@qq.com](mailto:shanlinmin@qq.com)
